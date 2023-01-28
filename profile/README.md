@@ -19,8 +19,8 @@ Arconix LLC is a rapidly growing technology company with a mission to provide to
 <p><a href="arconixbusiness@gmail.com">Email</a> - Email us with any questions that you may have!.</p>
 <p><a href="https://discord.com/invite/D6R4S4z3uP">Discord Guild</a> - Join our community and chat with us.</p>
 <p><a href="https://twitter.com/ArconixLLC">Twitter</a> - A handle for new updates and big-tech alerts!</p>
-<p><a href="">Instagram</a>Coming soon!</p>
-<p><a href="">Facebook</a>Coming soon!</p>
+<p><a href="">Instagram</a> - Coming soon!</p>
+<p><a href="">Facebook</a> - Coming soon!</p>
 <p><a href="https://www.linkedin.com/company/arconixdev/">LinkedIn</a> - Our company recruitment page!</p>
 <p><a href="https://github.com/Arconix-Development">GitHub</a> - This current page!</p>
 <p><a href="">Reddit</a> - Coming soon!</p>
